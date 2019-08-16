@@ -9,6 +9,8 @@ https://github.com/plainblack
 https://github.com/1vasari
 https://github.com/RedOrion
 https://github.com/Kantigen
+https://github.com/PurpleStarsOfAvalon/StarMap
+https://web.archive.org/web/20150317162558/http://www.lacunaexpanse.com/developers/
 
 https://github.com/b2gills/LacunaData
 https://github.com/b2gills/LacunaWaX
