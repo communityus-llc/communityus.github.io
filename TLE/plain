@@ -1,3 +1,24 @@
 SPECTRE:
 https://www.webgui.org/user-guides/developers-guide/developers-guide-wiki/workflow-activities
+https://www.webgui.org/user-guides/webgui-administrators-guide/webgui-administrators-guide/workflows
+
+SOAP/RPC/Socket
+
+Workflow
+https://github.com/mono/olive
+https://www.mono-project.com/archived/olive/
+https://www.mono-project.com/archived/workflow/
+https://github.com/mono/olive/tree/master/class/System.Workflow.Runtime
+
+Workflow and Starman:
+https://github.com/miyagawa/Starman
+high-performance preforking Perl PSGI web server
+
+
+
+
+
+
+
+
 
