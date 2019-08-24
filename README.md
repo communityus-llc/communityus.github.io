@@ -38,3 +38,9 @@ web client: (look at to see if worth using)
 - https://github.com/Kantigen/ka-web/commit/59717be230eb42fe8cc812189406b743d431f82f
 -- did some linting
 - https://github.com/Kantigen/ka-web/commit/607051d9edca5f4a725f3499393a5ca6fb2d0bcc
+-- Captcha now works on old-style building windows 
+- https://github.com/plainblack/Lacuna-Web-Client/commit/50ccd744ce651459aa71c5faeffd0194740eb443
+- https://github.com/plainblack/Lacuna-Web-Client/commit/596121f50d556751b9d8804bf59e49b33916a940
+- https://github.com/plainblack/Lacuna-Web-Client/commit/9f7d9022719e621dbf6fe597ba7d3f120b524cec
+- https://github.com/plainblack/Lacuna-Web-Client/commit/8b70527ce58a0cca42153de99f7bb0579221f43b
+- https://github.com/plainblack/Lacuna-Web-Client/commit/798bbe150ce8fa08966c8531204fd2232152d832
