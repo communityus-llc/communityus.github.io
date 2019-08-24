@@ -31,9 +31,10 @@ https://github.com/communityus/Rex/wiki
 https://github.com/plainblack/webgui/pull/23
 
 web client: (look at to see if worth using)
-- Fixed Boosts window. 
-https://github.com/Kantigen/ka-web/commit/2c9e9d93a0ed51e635046895d7daf2b1b3ed79ea
-- Fixed friend invite 
-https://github.com/Kantigen/ka-web/commit/59717be230eb42fe8cc812189406b743d431f82f
-- did some linting
-https://github.com/Kantigen/ka-web/commit/607051d9edca5f4a725f3499393a5ca6fb2d0bcc
+-- Fixed Boosts window. 
+- https://github.com/Kantigen/ka-web/commit/2c9e9d93a0ed51e635046895d7daf2b1b3ed79ea
+-- Fixed friend invite 
+- https://github.com/plainblack/Lacuna-Web-Client/commit/beadc5292964f79656bb487f5ec06655eda4a297
+- https://github.com/Kantigen/ka-web/commit/59717be230eb42fe8cc812189406b743d431f82f
+-- did some linting
+- https://github.com/Kantigen/ka-web/commit/607051d9edca5f4a725f3499393a5ca6fb2d0bcc
