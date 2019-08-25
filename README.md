@@ -44,3 +44,8 @@ web client: (look at to see if worth using)
 - https://github.com/plainblack/Lacuna-Web-Client/commit/9f7d9022719e621dbf6fe597ba7d3f120b524cec
 - https://github.com/plainblack/Lacuna-Web-Client/commit/8b70527ce58a0cca42153de99f7bb0579221f43b
 - https://github.com/plainblack/Lacuna-Web-Client/commit/798bbe150ce8fa08966c8531204fd2232152d832
+
+Incoming view on police station. 
+- https://github.com/plainblack/Lacuna-Web-Client/commit/de0d4e3e81c8190bf975d6c279bb56257c018cf6
+Show babies in right sidebar. 
+- https://github.com/plainblack/Lacuna-Web-Client/commit/5ba86ba5d8437a6a0612c9f690ae7dfb16ef99c9
