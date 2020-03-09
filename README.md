@@ -6,6 +6,7 @@ The packages
 Space demo and VFX / Shader graph
 
 License info clearly stated.
+https://github.com/communityus-llc/CommunityUs
 
 
 https://github.com/communityus-private/VHair
