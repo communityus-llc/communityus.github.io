@@ -8,6 +8,10 @@ Space demo and VFX / Shader graph
 License info clearly stated.
 https://github.com/communityus-llc/CommunityUs
 
+https://github.com/communityus-branch/BlendShapeBuilder
+https://github.com/communityus-branch/opened
+https://github.com/communityus-branch/BsvArch
+https://github.com/communityus-branch/pwa
 
 https://github.com/communityus-private/VHair
 https://github.com/communityus-private/windowsstoreappssamples
